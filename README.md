@@ -11,12 +11,13 @@ Lim</a>
 
 **Demo**
 ------------
-
+Link Here
 
 **Features**
 ------------
 
 Tasker is an app that aims to provide users a convenient way to list tasks and manage them. Users can create, read, update, and delete their tasks. Users can login and be authenticated. 
+
 **Tech Stack**
 --------------
 
